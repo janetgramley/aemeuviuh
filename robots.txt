@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohtewohhe.tomaspavelka.cz/sitemap.xml
